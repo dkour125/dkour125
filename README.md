@@ -37,8 +37,12 @@ Welcome to my GitHub! I'm a passionate Computer Science and Engineering graduate
 - 🔗 [GitHub](https://github.com/dkour125)  
   
 ---
-### ⚡ Fun Fact:
-I transformed my love for coding into impactful projects—one of them being a **Hybrid Netflix Recommender System** developed during my internship, combining content-based filtering and collaborative techniques. I believe in constant growth, creativity, and sharing knowledge to build a better tech-driven world.
+### ⚡ Fun Fact: **Code Wizard** who:  
+- 🧙♂️ Debugs with `EXPECTO PATRONUM`  
+- ⚡ Knows `Array.sort()` is the *Sorting Hat* of JavaScript  
+- 🔥 Deploys on *Phoenix* (a.k.a. Vercel)  
+
+*"After all this time?" "Always."* (But also `const always = true;`)  
 
 ---
 
