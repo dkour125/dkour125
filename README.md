@@ -40,7 +40,8 @@ Welcome to my GitHub! I'm a passionate Computer Science and Engineering graduate
 ### ⚡ Fun Fact: **Code Wizard** who:  
 - 🧙♂️ Debugs with `EXPECTO PATRONUM`  
 - ⚡ Knows `Array.sort()` is the *Sorting Hat* of JavaScript  
-- 🔥 Deploys on *Phoenix* (a.k.a. Vercel)  
+- 🔥 Deploys on *Phoenix* (a.k.a. Vercel)
+- 🌐 **Languages I Speak**: JavaScript, Python, and *Parseltongue* (when the code won’t cooperate).  
 
 *"After all this time?" "Always."* (But also `const always = true;`)  
 
