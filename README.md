@@ -1,17 +1,18 @@
-## 👋 Hi there, I’m Dupinder Kour (@dkour125)
+## Hi there, I’m Dupinder Kour (@dkour125)
 
 Welcome to my GitHub! I'm a passionate Computer Science and Engineering graduate with a strong interest in building intelligent systems that make a real-world impact.  
 
 ---
-### 👀 What I’m Interested In:
+### What I’m Interested In:
 - **Machine Learning & Deep Learning** 
 - **Artificial Intelligence**  
 - **Natural Language Processing (NLP)**  
 - **Recommender Systems**   
-- **Data Science & Analytics** 
+- **Data Science & Analytics**
+- **LLMs and RAG**
 
 ---
-### 🌱 Currently Learning:
+### Currently Learning:
 - Advanced ML techniques like ensemble learning, XGBoost, and deep neural networks  
 - NLP tools and libraries like NLTK, spaCy, and Hugging Face Transformers  
 - Hands-on work with TensorFlow, PyTorch, and Scikit-learn  
@@ -25,7 +26,7 @@ Welcome to my GitHub! I'm a passionate Computer Science and Engineering graduate
    6- SOCIAL MEDIA MARKETING AT WQU
 
 ---
-### 💞️ Open to Collaborations On:
+### Open to Collaborations On:
 - Research-driven ML/AI/NLP projects  
 - Building full-stack AI apps and ML-powered web solutions  
 - Recommender systems and user behavior prediction models  
@@ -37,11 +38,11 @@ Welcome to my GitHub! I'm a passionate Computer Science and Engineering graduate
 - 🔗 [GitHub](https://github.com/dkour125)  
   
 ---
-### ⚡ Fun Fact: **Code Wizard** who:  
-- 🧙♂️ Debugs with `EXPECTO PATRONUM`  
-- ⚡ Knows `Array.sort()` is the *Sorting Hat* of JavaScript  
-- 🔥 Deploys on *Phoenix* (a.k.a. Vercel)
-- 🌐 **Languages I Speak**: JavaScript, Python, and *Parseltongue* (when the code won’t cooperate).  
+### Fun Fact: **Code Wizard** who:  
+- 🧙 Debugs with `EXPECTO PATRONUM`  
+-  Knows `Array.sort()` is the *Sorting Hat* of JavaScript  
+-  Deploys on *Phoenix* (a.k.a. Vercel)
+-  **Languages I Speak**: JavaScript, Python, and *Parseltongue* (when the code won’t cooperate).  
 
 *"After all this time?" "Always."* (But also `const always = true;`)  
 
